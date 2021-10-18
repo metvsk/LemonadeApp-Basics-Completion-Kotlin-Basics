@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Lemonade App Kotlin</string>
+    <string name="ingredient_string">Tap to add %1$d tbsp of %2$s</string>
+    <!--
+            d	 	A decimal integer.
+            f	 	A float.
+            n	 	A new line character appropriate to the platform running the application. You should always use %n, rather than \n.
+            tB	 	A date & time conversion—locale-specific full name of month.
+            td, te	A date & time conversion—2-digit day of month. td has leading zeroes as needed, te does not.
+            ty, tY 	A date & time conversion—ty = 2-digit year, tY = 4-digit year.
+            tl	 	A date & time conversion—hour in 12-hour clock.
+            tM	 	A date & time conversion—minutes in 2 digits, with leading zeroes as necessary.
+            tp	 	A date & time conversion—locale-specific am/pm (lower case).
+            tm	 	A date & time conversion—months in 2 digits, with leading zeroes as necessary.
+            tD	 	A date & time conversion—date as %tm%td%ty
+    -->
 </resources>
